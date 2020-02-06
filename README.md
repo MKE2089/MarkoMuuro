@@ -1,2 +1,2 @@
 # MarkoMuuro
-Postgre palvelimen asennuksen dokumentointi
+Postgre palvelimen asennuksen dokumentointi dokumentit löytyy Wiki-sivulta
